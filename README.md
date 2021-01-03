@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### 🌱 I’m currently learning Back end
+##### 🌱 I’m currently learning Back End
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skadkwld&show_icons=true&theme=gruvbox)
 
 
