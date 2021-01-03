@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skadkwld&show_icons=true&theme=tokyonight)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skadkwld&show_icons=true&theme=radical)]
 
 🌱 I’m currently learning Java, Jsp, Spring
 <!--
